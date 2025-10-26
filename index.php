@@ -1,4 +1,4 @@
 <?php
 
-echo "HOLA CURSO DE AZURE Fran Soria";
+echo "HOLA CURSO DE AZURE";
 ?>
